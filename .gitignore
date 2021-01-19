@@ -5,6 +5,7 @@
 ### Vscode ###
 
 *.vscode
+*.DS_Store
 
 ### React ###
 */node_modules/
