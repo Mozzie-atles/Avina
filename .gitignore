@@ -11,7 +11,8 @@
 */node_modules/
 
 ### Django ###
-static/
+static/*
+!static/empty.txt
 *.log
 *.pot
 *.pyc
