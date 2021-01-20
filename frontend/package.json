@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "webpack --mode development --watch",
+    "dev":"webpack --mode development --watch",
     "build": "webpack --mode production"
   },
   "keywords": [],
@@ -26,7 +26,5 @@
     "@material-ui/icons": "^4.11.2",
     "react-router-dom": "^5.2.0"
   },
-  "devServer": {
-    "historyApiFallback": true
-  }
+  "devServer":{"historyApiFallback": true}
 }
